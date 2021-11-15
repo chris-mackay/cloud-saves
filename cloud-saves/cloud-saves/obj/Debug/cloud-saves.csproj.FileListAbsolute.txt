@@ -1,0 +1,15 @@
+C:\Programming\cloud-saves\cloud-saves\cloud-saves\bin\Debug\cloud-saves.exe.config
+C:\Programming\cloud-saves\cloud-saves\cloud-saves\bin\Debug\cloud-saves.exe
+C:\Programming\cloud-saves\cloud-saves\cloud-saves\bin\Debug\cloud-saves.pdb
+C:\Programming\cloud-saves\cloud-saves\cloud-saves\obj\Debug\cloud-saves.csproj.AssemblyReference.cache
+C:\Programming\cloud-saves\cloud-saves\cloud-saves\obj\Debug\MainWindow.g.cs
+C:\Programming\cloud-saves\cloud-saves\cloud-saves\obj\Debug\App.g.cs
+C:\Programming\cloud-saves\cloud-saves\cloud-saves\obj\Debug\cloud-saves_MarkupCompile.cache
+C:\Programming\cloud-saves\cloud-saves\cloud-saves\obj\Debug\cloud-saves_MarkupCompile.lref
+C:\Programming\cloud-saves\cloud-saves\cloud-saves\obj\Debug\MainWindow.baml
+C:\Programming\cloud-saves\cloud-saves\cloud-saves\obj\Debug\cloud-saves.g.resources
+C:\Programming\cloud-saves\cloud-saves\cloud-saves\obj\Debug\cloud_saves.Properties.Resources.resources
+C:\Programming\cloud-saves\cloud-saves\cloud-saves\obj\Debug\cloud-saves.csproj.GenerateResource.cache
+C:\Programming\cloud-saves\cloud-saves\cloud-saves\obj\Debug\cloud-saves.csproj.CoreCompileInputs.cache
+C:\Programming\cloud-saves\cloud-saves\cloud-saves\obj\Debug\cloud-saves.exe
+C:\Programming\cloud-saves\cloud-saves\cloud-saves\obj\Debug\cloud-saves.pdb
