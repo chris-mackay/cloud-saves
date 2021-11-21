@@ -13,3 +13,4 @@ C:\Programming\cloud-saves\cloud-saves\cloud-saves\obj\Debug\cloud-saves.csproj.
 C:\Programming\cloud-saves\cloud-saves\cloud-saves\obj\Debug\cloud-saves.csproj.CoreCompileInputs.cache
 C:\Programming\cloud-saves\cloud-saves\cloud-saves\obj\Debug\cloud-saves.exe
 C:\Programming\cloud-saves\cloud-saves\cloud-saves\obj\Debug\cloud-saves.pdb
+C:\Programming\cloud-saves\cloud-saves\cloud-saves\bin\Debug\XMLSettings.dll
